@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  LeftSlide
+//
+//  Created by 毛波 on 15/8/19.
+//  Copyright (c) 2015年 eamon. All rights reserved.
+//
+
+#ifndef LeftSlide_PrefixHeader_pch
+#define LeftSlide_PrefixHeader_pch
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
